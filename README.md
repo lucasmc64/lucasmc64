@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucasmc64&hide_border=true&title_color=a11ff3)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucasmc64&title_color=fff&text_color=fff&bg_color=a11ff3)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
