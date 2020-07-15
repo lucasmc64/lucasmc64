@@ -56,7 +56,7 @@
             <img src="https://raw.githubusercontent.com/lucasmc64/lucasmc64/28cdb6bf49c5e9cf5f0899807cc927aa34cb00b3/svg/headphones.svg" width="24px">
         </a>
     </span>
-    <span style="margin-right: 10px">
+    <span style="margin: 100px">
         <a href="http://t.me/lucasmc64">
             <img src="https://raw.githubusercontent.com/lucasmc64/lucasmc64/28cdb6bf49c5e9cf5f0899807cc927aa34cb00b3/svg/telegram.svg" width="24px">
         </a>
