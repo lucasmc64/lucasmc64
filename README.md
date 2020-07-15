@@ -31,36 +31,24 @@
 </h2>
 
 <div align="center">
-    <span style="margin-right: 10px">
-        <a href="https://github.com/lucasmc64">
-            <img src="https://raw.githubusercontent.com/lucasmc64/lucasmc64/28cdb6bf49c5e9cf5f0899807cc927aa34cb00b3/svg/github.svg" width="24px">
-        </a>
-    </span>
-    <span style="margin-right: 10px">
-        <a href="https://www.instagram.com/lucasmc64/">
-            <img src="https://raw.githubusercontent.com/lucasmc64/lucasmc64/28cdb6bf49c5e9cf5f0899807cc927aa34cb00b3/svg/instagram.svg" width="24px">
+    <a href="https://github.com/lucasmc64">
+        <img src="https://raw.githubusercontent.com/lucasmc64/lucasmc64/28cdb6bf49c5e9cf5f0899807cc927aa34cb00b3/svg/github.svg" width="24px">
     </a>
-    </span>
-    <span style="margin-right: 10px">
-        <a href="https://www.linkedin.com/in/lucasmc64">
-            <img src="https://raw.githubusercontent.com/lucasmc64/lucasmc64/28cdb6bf49c5e9cf5f0899807cc927aa34cb00b3/svg/linkedin.svg" width="24px">
-        </a>
-    </span>
-    <span style="margin-right: 10px">
-        <a href="https://medium.com/@lucasmc64">
-            <img src="https://raw.githubusercontent.com/lucasmc64/lucasmc64/28cdb6bf49c5e9cf5f0899807cc927aa34cb00b3/svg/medium.svg" width="24px">
-        </a>
-    </span>
-    <span style="margin-right: 10px">
-        <a href="https://open.spotify.com/user/zfmoktwes2vs17ye2wv2hywzv?si=QW2qQrxvTuO-E2Kq-szbBQ">
-            <img src="https://raw.githubusercontent.com/lucasmc64/lucasmc64/28cdb6bf49c5e9cf5f0899807cc927aa34cb00b3/svg/headphones.svg" width="24px">
-        </a>
-    </span>
-    <span style="margin: 100px">
-        <a href="http://t.me/lucasmc64">
-            <img src="https://raw.githubusercontent.com/lucasmc64/lucasmc64/28cdb6bf49c5e9cf5f0899807cc927aa34cb00b3/svg/telegram.svg" width="24px">
-        </a>
-    </span>
+    <a href="https://www.instagram.com/lucasmc64/">
+        <img src="https://raw.githubusercontent.com/lucasmc64/lucasmc64/28cdb6bf49c5e9cf5f0899807cc927aa34cb00b3/svg/instagram.svg" width="24px">
+    </a>
+    <a href="https://www.linkedin.com/in/lucasmc64">
+        <img src="https://raw.githubusercontent.com/lucasmc64/lucasmc64/28cdb6bf49c5e9cf5f0899807cc927aa34cb00b3/svg/linkedin.svg" width="24px">
+    </a>
+    <a href="https://medium.com/@lucasmc64">
+        <img src="https://raw.githubusercontent.com/lucasmc64/lucasmc64/28cdb6bf49c5e9cf5f0899807cc927aa34cb00b3/svg/medium.svg" width="24px">
+    </a>
+    <a href="https://open.spotify.com/user/zfmoktwes2vs17ye2wv2hywzv?si=QW2qQrxvTuO-E2Kq-szbBQ">
+        <img src="https://raw.githubusercontent.com/lucasmc64/lucasmc64/28cdb6bf49c5e9cf5f0899807cc927aa34cb00b3/svg/headphones.svg" width="24px">
+    </a>
+    <a href="http://t.me/lucasmc64">
+        <img src="https://raw.githubusercontent.com/lucasmc64/lucasmc64/28cdb6bf49c5e9cf5f0899807cc927aa34cb00b3/svg/telegram.svg" width="24px">
+    </a>
     <a href="mailto:coutinho0604@gmail.com">
         <img src="https://raw.githubusercontent.com/lucasmc64/lucasmc64/28cdb6bf49c5e9cf5f0899807cc927aa34cb00b3/svg/mail.svg" width="24px">
     </a>
