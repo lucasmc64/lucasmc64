@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![counter](https://en6uxxo7jf8ca8y.m.pipedream.net)
+
 <!--
 **lucasmc64/lucasmc64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
