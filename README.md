@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/56159095/87563147-46e41180-c695-11ea-989f-32216086aae3.png">
+<img src="https://github.com/lucasmc64/lucasmc64/blob/master/images/header.png?raw=true">
 
 <h2 align="center">
     Introduction
@@ -55,5 +55,5 @@
 </div>
 
 <h1 align="center">
-    <img src="https://user-images.githubusercontent.com/56159095/87563629-d5f12980-c695-11ea-93f1-05c8140ee0d9.png">
+    <img src="https://github.com/lucasmc64/lucasmc64/blob/master/images/footer.png?raw=true">
 </h1>
