@@ -1,4 +1,4 @@
-![Hi!](/images/header.png)
+![Hi!](/lucasmc64/lucasmc64/images/header.png)
 
 <h2 style="color: #a11ff3; font-size: 20pt; line-height: 24pt; margin: 0; text-align: center;">Introduction</h2>
 
@@ -50,4 +50,4 @@
     </a>
 </div>
 
-![Bay!](/images/footer.png)
+![Bay!](/lucasmc64/lucasmc64/images/footer.png)
