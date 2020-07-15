@@ -32,25 +32,25 @@
 
 <div align="center">
     <a style="margin-right: 10px" href="https://github.com/lucasmc64">
-        <img src="./svg/github.svg" width="24px">
+        <img src="https://raw.githubusercontent.com/lucasmc64/lucasmc64/28cdb6bf49c5e9cf5f0899807cc927aa34cb00b3/svg/github.svg" width="24px">
     </a>
     <a style="margin-right: 10px" href="https://www.instagram.com/lucasmc64/">
-        <img src="./svg/instagram.svg" width="24px">
+        <img src="https://raw.githubusercontent.com/lucasmc64/lucasmc64/28cdb6bf49c5e9cf5f0899807cc927aa34cb00b3/svg/instagram.svg" width="24px">
     </a>
     <a style="margin-right: 10px" href="https://www.linkedin.com/in/lucasmc64">
-        <img src="./svg/linkedin.svg" width="24px">
+        <img src="https://raw.githubusercontent.com/lucasmc64/lucasmc64/28cdb6bf49c5e9cf5f0899807cc927aa34cb00b3/svg/linkedin.svg" width="24px">
     </a>
     <a style="margin-right: 10px" href="https://medium.com/@lucasmc64">
-        <img src="./svg/medium.svg" width="24px">
+        <img src="https://raw.githubusercontent.com/lucasmc64/lucasmc64/28cdb6bf49c5e9cf5f0899807cc927aa34cb00b3/svg/medium.svg" width="24px">
     </a>
     <a style="margin-right: 10px" href="https://open.spotify.com/user/zfmoktwes2vs17ye2wv2hywzv?si=QW2qQrxvTuO-E2Kq-szbBQ">
-        <img src="./svg/headphones.svg" width="24px">
+        <img src="https://raw.githubusercontent.com/lucasmc64/lucasmc64/28cdb6bf49c5e9cf5f0899807cc927aa34cb00b3/svg/headphones.svg" width="24px">
     </a>
     <a style="margin-right: 10px" href="http://t.me/lucasmc64">
-        <img src="./svg/telegram.svg" width="24px">
+        <img src="https://raw.githubusercontent.com/lucasmc64/lucasmc64/28cdb6bf49c5e9cf5f0899807cc927aa34cb00b3/svg/telegram.svg" width="24px">
     </a>
     <a href="mailto:coutinho0604@gmail.com">
-        <img src="./svg/mail.svg" width="24px">
+        <img src="https://raw.githubusercontent.com/lucasmc64/lucasmc64/28cdb6bf49c5e9cf5f0899807cc927aa34cb00b3/svg/mail.svg" width="24px">
     </a>
 </div>
 
