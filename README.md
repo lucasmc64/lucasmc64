@@ -31,7 +31,7 @@
 </h2>
 
 <div align="center">
-    <a href="https://github.com/lucasmc64">
+    <a style="text-decoration: none;" href="https://github.com/lucasmc64">
         <img src="https://raw.githubusercontent.com/lucasmc64/lucasmc64/28cdb6bf49c5e9cf5f0899807cc927aa34cb00b3/svg/github.svg" width="24px">
     </a>
     <a href="https://www.instagram.com/lucasmc64/">
