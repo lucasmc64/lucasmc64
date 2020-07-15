@@ -31,9 +31,11 @@
 </h2>
 
 <div align="center">
-    <a style="margin-right: 10px" href="https://github.com/lucasmc64">
+    <div style="margin-right: 10px">
+    <a href="https://github.com/lucasmc64">
         <img src="https://raw.githubusercontent.com/lucasmc64/lucasmc64/28cdb6bf49c5e9cf5f0899807cc927aa34cb00b3/svg/github.svg" width="24px">
     </a>
+    </div>
     <a style="margin-right: 10px" href="https://www.instagram.com/lucasmc64/">
         <img src="https://raw.githubusercontent.com/lucasmc64/lucasmc64/28cdb6bf49c5e9cf5f0899807cc927aa34cb00b3/svg/instagram.svg" width="24px">
     </a>
