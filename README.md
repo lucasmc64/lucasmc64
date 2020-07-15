@@ -1,12 +1,10 @@
-<h1 align="center">
-    <img src="./images/header.png">
-</h1>
+<img src="https://user-images.githubusercontent.com/56159095/87563147-46e41180-c695-11ea-989f-32216086aae3.png">
 
 <h2 align="center">
     Introduction
 </h2>
 
-<p style="font-size: 12pt; text-align: center;">I am 19 years old and I am a Full-Stack student from Brazil.</p>
+<p align="center">I am 19 years old and I am a Full-Stack student from Brazil.</p>
 
 <h2 align="center">Some facts about me</h2>
 
@@ -57,5 +55,5 @@
 </div>
 
 <h1 align="center">
-    <img src="./images/footer.png">
+    <img src="https://user-images.githubusercontent.com/56159095/87563629-d5f12980-c695-11ea-93f1-05c8140ee0d9.png">
 </h1>
