@@ -1,41 +1,21 @@
-<img src="https://github.com/lucasmc64/lucasmc64/blob/master/images/header.png?raw=true">
+![Header](https://github.com/lucasmc64/lucasmc64/blob/master/images/header.png?raw=true)
 
-<h2 align="center">
-    Introduction
-</h2>
+## Introduction
 
-<p align="center">I am 19 years old and I am a Full-Stack student from Brazil.</p>
+I am 19 years old and I am a Full-Stack student from Brazil.
 
-<h2 align="center">Some facts about me</h2>
+## Some facts about me
 
-<p align="center">
-    &#128218; Learning HTML, CSS, JS, Nunjucks, Node, React and React Native.
-</p>
+&#128218; Learning HTML, CSS, JS, Nunjucks, Node, React and React Native.
 
-<p align="center">
-    &#129321; I'm a fan of Becky Albertalli and Rick Riordan books.
-</p>
+&#129321; I'm a fan of Becky Albertalli and Rick Riordan books.
 
-<p align="center">
-    &#127911; The song "Legend" by the band "The Score" inspires me to study
-</p>
-
-<div align="center">
+&#127911; The song "Legend" by the band "The Score" inspires me to study.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucasmc64&title_color=fff&text_color=fff&bg_color=a11ff3)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
-
-<h2 align="center">
-    Contact
-</h2>
-
-<div align="center">
+## Contact and others
 
 [![GitHub](https://raw.githubusercontent.com/lucasmc64/lucasmc64/28cdb6bf49c5e9cf5f0899807cc927aa34cb00b3/svg/github.svg)](https://github.com/lucasmc64) [![Instagram](https://raw.githubusercontent.com/lucasmc64/lucasmc64/28cdb6bf49c5e9cf5f0899807cc927aa34cb00b3/svg/instagram.svg)](https://www.instagram.com/lucasmc64/) [![LinkedIn](https://raw.githubusercontent.com/lucasmc64/lucasmc64/28cdb6bf49c5e9cf5f0899807cc927aa34cb00b3/svg/linkedin.svg)](https://www.linkedin.com/in/lucasmc64) [![Medium](https://raw.githubusercontent.com/lucasmc64/lucasmc64/ea8351c453293ce8f1273ce371f8f4d70866a3e6/svg/medium.svg)](https://medium.com/@lucasmc64) [![Spotify](https://raw.githubusercontent.com/lucasmc64/lucasmc64/28cdb6bf49c5e9cf5f0899807cc927aa34cb00b3/svg/headphones.svg)](https://open.spotify.com/user/zfmoktwes2vs17ye2wv2hywzv?si=QW2qQrxvTuO-E2Kq-szbBQ) [![Telegram](https://raw.githubusercontent.com/lucasmc64/lucasmc64/28cdb6bf49c5e9cf5f0899807cc927aa34cb00b3/svg/telegram.svg)](http://t.me/lucasmc64) [![Email](https://raw.githubusercontent.com/lucasmc64/lucasmc64/28cdb6bf49c5e9cf5f0899807cc927aa34cb00b3/svg/mail.svg)](mailto:coutinho0604@gmail.com)
 
-</div>
-
-<h1 align="center">
-    <img src="https://github.com/lucasmc64/lucasmc64/blob/master/images/footer.png?raw=true">
-</h1>
+![Footer](https://github.com/lucasmc64/lucasmc64/blob/master/images/footer.png?raw=true)
