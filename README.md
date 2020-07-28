@@ -12,7 +12,7 @@ I am 19 years old and I am a Full-Stack student from Brazil.
 
 &#127911; The song "Legend" by the band "The Score" inspires me to study.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucasmc64&title_color=fff&text_color=fff&bg_color=a11ff3)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucasmc64&title_color=fff&text_color=fff&bg_color=00d4aa)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact and others
 
