@@ -1,4 +1,4 @@
-![Header](https://github.com/lucasmc64/lucasmc64/blob/master/images/header.png?raw=true)
+![Header](https://raw.githubusercontent.com/lucasmc64/lucasmc64/master/images/header.png)
 
 ## Introduction
 
