@@ -7,10 +7,10 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    height="24"
    width="24"
-   sodipodi:docname="dev-badge.svg"
+   sodipodi:docname="dev.svg"
    id="svg58"
    version="1.1"
    viewBox="0 0 24 24"
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -32,14 +32,14 @@
   <sodipodi:namedview
      inkscape:current-layer="svg58"
      inkscape:window-maximized="1"
-     inkscape:window-y="27"
+     inkscape:window-y="25"
      inkscape:window-x="0"
-     inkscape:cy="24.40869"
-     inkscape:cx="-5.9762822"
-     inkscape:zoom="4.0078125"
+     inkscape:cy="20.983906"
+     inkscape:cx="5.0671265"
+     inkscape:zoom="11.335806"
      showgrid="false"
      id="namedview60"
-     inkscape:window-height="704"
+     inkscape:window-height="707"
      inkscape:window-width="1366"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -48,7 +48,14 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
+  <path
+     style="fill:#ffffff;stroke-width:0.0513392"
+     id="path56-3"
+     d="M 21.246205,0.50000015 H 2.753795 C 1.511384,0.50000015 0.503081,1.5057358 0.5,2.7486609 V 21.251339 C 0.503,22.494263 1.511384,23.5 2.753795,23.5 h 18.49241 C 22.48913,23.5 23.49692,22.494263 23.5,21.251339 V 2.7486609 C 23.496916,1.5057358 22.488616,0.50000015 21.246205,0.50000015 Z"
+     fill="#000000"
+     sodipodi:nodetypes="ssccssccs" />
   <path
      style="stroke-width:0.0491071"
      id="path56"
