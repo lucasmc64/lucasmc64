@@ -54,12 +54,16 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg491"
      inkscape:document-rotation="0" />
-  <path
-     d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"
-     id="path487"
-     style="stroke:#6272a4;stroke-opacity:1" />
-  <polyline
-     points="22,6 12,13 2,6"
-     id="polyline489"
-     style="stroke:#6272a4;stroke-opacity:1" />
+  <g
+     id="g3877"
+     style="stroke:#586069;stroke-opacity:1">
+    <path
+       d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"
+       id="path487"
+       style="stroke:#586069;stroke-opacity:1" />
+    <polyline
+       points="22,6 12,13 2,6"
+       id="polyline489"
+       style="stroke:#586069;stroke-opacity:1" />
+  </g>
 </svg>

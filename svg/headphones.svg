@@ -57,14 +57,14 @@
   <g
      id="g318"
      transform="matrix(1.1,0,0,1.1,-1.2,-1.2000021)"
-     style="stroke:#6272a4;stroke-opacity:1">
+     style="stroke:#586069;stroke-opacity:1">
     <path
        d="m 3,18 v -6 a 9,9 0 0 1 18,0 v 6"
        id="path298"
-       style="stroke:#6272a4;stroke-opacity:1" />
+       style="stroke:#586069;stroke-opacity:1" />
     <path
        d="m 21,19 a 2,2 0 0 1 -2,2 h -1 a 2,2 0 0 1 -2,-2 v -3 a 2,2 0 0 1 2,-2 h 3 z M 3,19 a 2,2 0 0 0 2,2 H 6 A 2,2 0 0 0 8,19 V 16 A 2,2 0 0 0 6,14 H 3 Z"
        id="path300"
-       style="stroke:#6272a4;stroke-opacity:1" />
+       style="stroke:#586069;stroke-opacity:1" />
   </g>
 </svg>
