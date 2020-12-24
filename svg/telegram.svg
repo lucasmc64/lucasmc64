@@ -47,26 +47,23 @@
      id="namedview547"
      showgrid="false"
      inkscape:zoom="23.041667"
-     inkscape:cx="12"
+     inkscape:cx="11.783002"
      inkscape:cy="12"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg545" />
-  <path
-     style="fill:#ffffff;stroke:none;stroke-width:0.0513392"
-     id="path56-3"
-     d="M 21.246205,0.49999985 H 2.753795 c -1.242411,0 -2.25071405,1.00573565 -2.25379505,2.24866075 V 21.251339 C 0.50299995,22.494263 1.511384,23.5 2.753795,23.5 h 18.49241 C 22.48913,23.5 23.49692,22.494263 23.5,21.251339 V 2.7486606 C 23.496916,1.5057355 22.488616,0.49999985 21.246205,0.49999985 Z"
-     fill="#000000"
-     sodipodi:nodetypes="ssccssccs" />
+     inkscape:current-layer="svg545"
+     inkscape:document-rotation="0" />
   <line
      x1="22"
      y1="2"
      x2="11"
      y2="13"
-     id="line541" />
+     id="line541"
+     style="stroke:#6272a4;stroke-opacity:1" />
   <polygon
      points="11,13 2,9 22,2 15,22 "
      id="polygon543"
-     transform="translate(-5.4029695e-5,5.4029695e-5)" />
+     transform="translate(-5.4029695e-5,5.4029695e-5)"
+     style="stroke:#6272a4;stroke-opacity:1" />
 </svg>

@@ -47,26 +47,24 @@
      id="namedview304"
      showgrid="false"
      inkscape:zoom="23.041667"
-     inkscape:cx="12"
+     inkscape:cx="11.066908"
      inkscape:cy="12"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg302" />
-  <path
-     style="fill:#ffffff;stroke:none;stroke-width:0.0513392"
-     id="path56-3"
-     d="M 21.246205,0.50000003 H 2.7537952 c -1.242411,0 -2.250714,1.00573567 -2.253795,2.24866087 V 21.251339 C 0.5030002,22.494263 1.5113842,23.5 2.7537952,23.5 H 21.246205 C 22.48913,23.5 23.49692,22.494263 23.5,21.251339 V 2.7486609 C 23.4969,1.5057357 22.488616,0.50000003 21.246205,0.50000003 Z"
-     fill="#000000"
-     sodipodi:nodetypes="ssccssccs" />
+     inkscape:current-layer="svg302"
+     inkscape:document-rotation="0" />
   <g
      id="g318"
-     transform="matrix(1.1,0,0,1.1,-1.2,-1.2000021)">
+     transform="matrix(1.1,0,0,1.1,-1.2,-1.2000021)"
+     style="stroke:#6272a4;stroke-opacity:1">
     <path
        d="m 3,18 v -6 a 9,9 0 0 1 18,0 v 6"
-       id="path298" />
+       id="path298"
+       style="stroke:#6272a4;stroke-opacity:1" />
     <path
        d="m 21,19 a 2,2 0 0 1 -2,2 h -1 a 2,2 0 0 1 -2,-2 v -3 a 2,2 0 0 1 2,-2 h 3 z M 3,19 a 2,2 0 0 0 2,2 H 6 A 2,2 0 0 0 8,19 V 16 A 2,2 0 0 0 6,14 H 3 Z"
-       id="path300" />
+       id="path300"
+       style="stroke:#6272a4;stroke-opacity:1" />
   </g>
 </svg>

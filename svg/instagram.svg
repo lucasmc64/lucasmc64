@@ -47,18 +47,13 @@
      id="namedview371"
      showgrid="false"
      inkscape:zoom="21.541667"
-     inkscape:cx="12"
+     inkscape:cx="11.767892"
      inkscape:cy="12"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg369" />
-  <path
-     style="fill:#ffffff;stroke:none;stroke-width:0.0513392"
-     id="path56-3"
-     d="M 21.246205,0.5 H 2.7537951 c -1.242411,0 -2.250714,1.0057357 -2.253795,2.2486608 V 21.251339 C 0.5030001,22.494263 1.5113841,23.5 2.7537951,23.5 H 21.246205 C 22.48913,23.5 23.49692,22.494263 23.5,21.251339 V 2.7486608 C 23.496916,1.5057357 22.488616,0.5 21.246205,0.5 Z"
-     fill="#000000"
-     sodipodi:nodetypes="ssccssccs" />
+     inkscape:current-layer="svg369"
+     inkscape:document-rotation="0" />
   <rect
      x="2"
      y="2"
@@ -66,14 +61,17 @@
      height="20"
      rx="5"
      ry="5"
-     id="rect363" />
+     id="rect363"
+     style="stroke:#6272a4;stroke-opacity:1" />
   <path
      d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"
-     id="path365" />
+     id="path365"
+     style="stroke:#6272a4;stroke-opacity:1" />
   <line
      x1="17.5"
      y1="6.5"
      x2="17.51"
      y2="6.5"
-     id="line367" />
+     id="line367"
+     style="stroke:#6272a4;stroke-opacity:1" />
 </svg>
