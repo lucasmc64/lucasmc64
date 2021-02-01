@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.81765083"
-     inkscape:cx="545.73881"
-     inkscape:cy="109.23186"
+     inkscape:cx="726.57439"
+     inkscape:cy="-53.124176"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -81,32 +81,36 @@
        x="3.1750033"
        y="2.6448467"
        ry="4.2332616" />
-    <rect
-       style="fill:#d1d5da;fill-opacity:0.5;stroke:none;stroke-width:1.05833;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect277-3"
-       width="279.39999"
-       height="37.04364"
-       x="3.1750033"
-       y="2.6448467"
-       ry="4.2332616" />
-    <rect
-       style="fill:none;stroke:#586069;stroke-width:1.05833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect277"
-       width="279.39999"
-       height="37.04364"
-       x="0.52916503"
-       y="0.52916503"
-       ry="4.2332616" />
+    <g
+       id="g1635"
+       transform="translate(1.5875017,1.3224233)">
+      <rect
+         style="fill:#d1d5da;fill-opacity:0.5;stroke:none;stroke-width:1.05833;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect277-3"
+         width="279.39999"
+         height="37.04364"
+         x="3.1750033"
+         y="2.6448467"
+         ry="4.2332616" />
+      <rect
+         style="fill:none;stroke:#586069;stroke-width:1.05833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect277"
+         width="279.39999"
+         height="37.04364"
+         x="0.52916503"
+         y="0.52916503"
+         ry="4.2332616" />
+    </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:14.1111px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#586069;fill-opacity:1;stroke:none;stroke-width:0.264583;"
-       x="93.93779"
-       y="27.152809"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:14.1111px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#24292e;fill-opacity:1;stroke:none;stroke-width:0.264583;"
+       x="92.350288"
+       y="25.830385"
        id="text837"><tspan
          sodipodi:role="line"
          id="tspan835"
-         x="93.93779"
-         y="27.152809"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:14.1111px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#586069;stroke-width:0.264583;fill-opacity:1;">Hi, I'm Lucas!</tspan></text>
+         x="92.350288"
+         y="25.830385"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:14.1111px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#24292e;fill-opacity:1;stroke-width:0.264583;">Hi, I'm Lucas!</tspan></text>
   </g>
 </svg>
