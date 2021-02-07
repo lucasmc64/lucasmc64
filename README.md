@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/lucasmc64/lucasmc64/master/svg/header.svg)
+![Header](https://raw.githubusercontent.com/lucasmc64/lucasmc64/master/img/header.png)
 
 ## Introduction
 
